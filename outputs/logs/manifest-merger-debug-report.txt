@@ -1,0 +1,299 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:2:1-44:12
+MERGED from [com.android.support:multidex:1.0.2] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/3a2f00fc89b7527a667aaf6a9f984aa2/multidex-1.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [io.github.ranga543:yelp-fusion-client:0.1.4] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/5a0a6f30cd7f791e201ce8d4ff091140/yelp-fusion-client-0.1.4/AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/4de86d69bf896f9b11352bd4216edca0/appcompat-v7-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/8cedc74b563bebcdb599770fe3223468/constraint-layout-1.0.2/AndroidManifest.xml:2:1-11:12
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/203a702c3c6ec4a5770e486a3ce79343/picasso-2.71828/AndroidManifest.xml:2:1-14:12
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.12] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/60191759edde53b0623ea803c63b9adb/android-gif-drawable-1.2.12/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/e3ba44b2b8ebafdc3f0f3a4401d919cb/play-services-maps-11.8.0/AndroidManifest.xml:17:1-32:12
+MERGED from [com.eftimoff:android-viewpager-transformers:1.0.1] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/0cbca0f54158088a0ab35a9d05fecf6e/android-viewpager-transformers-1.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/43dc3e003e105e127a34c2c17032b779/animated-vector-drawable-26.1.0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/c6edb1f8924d530483a3a5d691ff4a22/support-vector-drawable-26.1.0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:exifinterface:27.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/a0f6ee22071c8b50662d9f3c62b256ad/exifinterface-27.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/1acf88e4def1bb35aafe3b77714a580d/play-services-base-11.8.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/513b721c517f0f5bbb9ddaec6f374aee/play-services-tasks-11.8.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/23b062dca74f2892ac524e2ec0f2171a/play-services-basement-11.8.0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/04dfc4c4586c8987d89778d025c299b5/support-v4-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/4969391013530459b8d5694d25c2914a/support-media-compat-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/4e9a1213c0cdbf8ccf8b9a69b3cc28c7/support-fragment-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/c53d86fa8e6705e40905d05fcb87b7a4/support-core-utils-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/302181089bc332c5b96b205413380a6c/support-core-ui-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/aef28e06034f17d0a1e19f4599c3cf7e/support-compat-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/01d180647cc9210a06190de47a6aec66/play-services-maps-license-11.8.0/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/c787308641a40335721f8de3c47d5d7d/play-services-base-license-11.8.0/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/3c89b898be8c7791c446f6ccc26aea43/play-services-basement-license-11.8.0/AndroidManifest.xml:2:1-6:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/654942dbea597829483fe5bc8dcaf1c5/runtime-1.0.0/AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/b7651373a116154e9e2baa783b0abb0d/play-services-tasks-license-11.8.0/AndroidManifest.xml:2:1-6:12
+INJECTED from /Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:2:1-44:12
+	package
+		ADDED from /Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:4:5-45
+		INJECTED from /Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml
+		ADDED from /Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:2:1-44:12
+		INJECTED from /Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml
+		ADDED from /Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:2:1-44:12
+		INJECTED from /Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from /Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.INTERNET
+ADDED from /Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/e3ba44b2b8ebafdc3f0f3a4401d919cb/play-services-maps-11.8.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/e3ba44b2b8ebafdc3f0f3a4401d919cb/play-services-maps-11.8.0/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from /Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:8:22-64
+uses-permission#android.permission.CALL_PHONE
+ADDED from /Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:9:5-69
+	android:name
+		ADDED from /Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:9:22-66
+application
+ADDED from /Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:11:5-42:19
+MERGED from [io.github.ranga543:yelp-fusion-client:0.1.4] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/5a0a6f30cd7f791e201ce8d4ff091140/yelp-fusion-client-0.1.4/AndroidManifest.xml:11:5-15:19
+MERGED from [io.github.ranga543:yelp-fusion-client:0.1.4] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/5a0a6f30cd7f791e201ce8d4ff091140/yelp-fusion-client-0.1.4/AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/4de86d69bf896f9b11352bd4216edca0/appcompat-v7-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/4de86d69bf896f9b11352bd4216edca0/appcompat-v7-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/8cedc74b563bebcdb599770fe3223468/constraint-layout-1.0.2/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/8cedc74b563bebcdb599770fe3223468/constraint-layout-1.0.2/AndroidManifest.xml:9:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/203a702c3c6ec4a5770e486a3ce79343/picasso-2.71828/AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/203a702c3c6ec4a5770e486a3ce79343/picasso-2.71828/AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/e3ba44b2b8ebafdc3f0f3a4401d919cb/play-services-maps-11.8.0/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/e3ba44b2b8ebafdc3f0f3a4401d919cb/play-services-maps-11.8.0/AndroidManifest.xml:30:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/43dc3e003e105e127a34c2c17032b779/animated-vector-drawable-26.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/43dc3e003e105e127a34c2c17032b779/animated-vector-drawable-26.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/c6edb1f8924d530483a3a5d691ff4a22/support-vector-drawable-26.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/c6edb1f8924d530483a3a5d691ff4a22/support-vector-drawable-26.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/1acf88e4def1bb35aafe3b77714a580d/play-services-base-11.8.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/1acf88e4def1bb35aafe3b77714a580d/play-services-base-11.8.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/513b721c517f0f5bbb9ddaec6f374aee/play-services-tasks-11.8.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/513b721c517f0f5bbb9ddaec6f374aee/play-services-tasks-11.8.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/23b062dca74f2892ac524e2ec0f2171a/play-services-basement-11.8.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/23b062dca74f2892ac524e2ec0f2171a/play-services-basement-11.8.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/04dfc4c4586c8987d89778d025c299b5/support-v4-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/04dfc4c4586c8987d89778d025c299b5/support-v4-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/4969391013530459b8d5694d25c2914a/support-media-compat-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/4969391013530459b8d5694d25c2914a/support-media-compat-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/4e9a1213c0cdbf8ccf8b9a69b3cc28c7/support-fragment-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/4e9a1213c0cdbf8ccf8b9a69b3cc28c7/support-fragment-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/c53d86fa8e6705e40905d05fcb87b7a4/support-core-utils-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/c53d86fa8e6705e40905d05fcb87b7a4/support-core-utils-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/302181089bc332c5b96b205413380a6c/support-core-ui-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/302181089bc332c5b96b205413380a6c/support-core-ui-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/aef28e06034f17d0a1e19f4599c3cf7e/support-compat-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/aef28e06034f17d0a1e19f4599c3cf7e/support-compat-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/01d180647cc9210a06190de47a6aec66/play-services-maps-license-11.8.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/01d180647cc9210a06190de47a6aec66/play-services-maps-license-11.8.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/c787308641a40335721f8de3c47d5d7d/play-services-base-license-11.8.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/c787308641a40335721f8de3c47d5d7d/play-services-base-license-11.8.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/3c89b898be8c7791c446f6ccc26aea43/play-services-basement-license-11.8.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/3c89b898be8c7791c446f6ccc26aea43/play-services-basement-license-11.8.0/AndroidManifest.xml:5:5-20
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/654942dbea597829483fe5bc8dcaf1c5/runtime-1.0.0/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/654942dbea597829483fe5bc8dcaf1c5/runtime-1.0.0/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/b7651373a116154e9e2baa783b0abb0d/play-services-tasks-license-11.8.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/b7651373a116154e9e2baa783b0abb0d/play-services-tasks-license-11.8.0/AndroidManifest.xml:5:5-20
+	android:supportsRtl
+		ADDED from /Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from /Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:14:9-32
+		REJECTED from [io.github.ranga543:yelp-fusion-client:0.1.4] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/5a0a6f30cd7f791e201ce8d4ff091140/yelp-fusion-client-0.1.4/AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from /Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:15:9-54
+	android:icon
+		ADDED from /Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from /Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from /Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:17:9-40
+	tools:replace
+		ADDED from /Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:18:9-38
+activity#com.example.jiexunxu.tinderapp.MainActivity
+ADDED from /Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:19:9-26:20
+	android:screenOrientation
+		ADDED from /Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:21:13-49
+	android:name
+		ADDED from /Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:20:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:22:13-25:29
+action#android.intent.action.MAIN
+ADDED from /Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from /Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from /Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:24:27-74
+activity#com.example.jiexunxu.tinderapp.SlideShowActivity
+ADDED from /Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:27:9-29:52
+	android:screenOrientation
+		ADDED from /Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:29:13-49
+	android:name
+		ADDED from /Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:28:13-46
+activity#com.example.jiexunxu.tinderapp.WaitSearchActivity
+ADDED from /Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:30:9-32:52
+	android:screenOrientation
+		ADDED from /Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:32:13-49
+	android:name
+		ADDED from /Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:31:13-47
+activity#com.example.jiexunxu.tinderapp.NoPlacesFoundActivity
+ADDED from /Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:33:9-35:52
+	android:screenOrientation
+		ADDED from /Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:35:13-49
+	android:name
+		ADDED from /Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:34:13-50
+activity#com.example.jiexunxu.tinderapp.SettingsActivity
+ADDED from /Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:36:9-38:52
+	android:screenOrientation
+		ADDED from /Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:38:13-49
+	android:name
+		ADDED from /Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:37:13-45
+activity#com.example.jiexunxu.tinderapp.ErrorActivity
+ADDED from /Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:39:9-41:52
+	android:screenOrientation
+		ADDED from /Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:41:13-49
+	android:name
+		ADDED from /Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:40:13-42
+uses-sdk
+INJECTED from /Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml
+INJECTED from /Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:multidex:1.0.2] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/3a2f00fc89b7527a667aaf6a9f984aa2/multidex-1.0.2/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/3a2f00fc89b7527a667aaf6a9f984aa2/multidex-1.0.2/AndroidManifest.xml:20:5-43
+MERGED from [io.github.ranga543:yelp-fusion-client:0.1.4] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/5a0a6f30cd7f791e201ce8d4ff091140/yelp-fusion-client-0.1.4/AndroidManifest.xml:7:5-9:41
+MERGED from [io.github.ranga543:yelp-fusion-client:0.1.4] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/5a0a6f30cd7f791e201ce8d4ff091140/yelp-fusion-client-0.1.4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/4de86d69bf896f9b11352bd4216edca0/appcompat-v7-26.1.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/4de86d69bf896f9b11352bd4216edca0/appcompat-v7-26.1.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/8cedc74b563bebcdb599770fe3223468/constraint-layout-1.0.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/8cedc74b563bebcdb599770fe3223468/constraint-layout-1.0.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/203a702c3c6ec4a5770e486a3ce79343/picasso-2.71828/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/203a702c3c6ec4a5770e486a3ce79343/picasso-2.71828/AndroidManifest.xml:5:5-44
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.12] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/60191759edde53b0623ea803c63b9adb/android-gif-drawable-1.2.12/AndroidManifest.xml:7:5-9:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.12] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/60191759edde53b0623ea803c63b9adb/android-gif-drawable-1.2.12/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/e3ba44b2b8ebafdc3f0f3a4401d919cb/play-services-maps-11.8.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/e3ba44b2b8ebafdc3f0f3a4401d919cb/play-services-maps-11.8.0/AndroidManifest.xml:20:5-44
+MERGED from [com.eftimoff:android-viewpager-transformers:1.0.1] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/0cbca0f54158088a0ab35a9d05fecf6e/android-viewpager-transformers-1.0.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.eftimoff:android-viewpager-transformers:1.0.1] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/0cbca0f54158088a0ab35a9d05fecf6e/android-viewpager-transformers-1.0.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/43dc3e003e105e127a34c2c17032b779/animated-vector-drawable-26.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/43dc3e003e105e127a34c2c17032b779/animated-vector-drawable-26.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/c6edb1f8924d530483a3a5d691ff4a22/support-vector-drawable-26.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/c6edb1f8924d530483a3a5d691ff4a22/support-vector-drawable-26.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/a0f6ee22071c8b50662d9f3c62b256ad/exifinterface-27.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/a0f6ee22071c8b50662d9f3c62b256ad/exifinterface-27.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/1acf88e4def1bb35aafe3b77714a580d/play-services-base-11.8.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/1acf88e4def1bb35aafe3b77714a580d/play-services-base-11.8.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/513b721c517f0f5bbb9ddaec6f374aee/play-services-tasks-11.8.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/513b721c517f0f5bbb9ddaec6f374aee/play-services-tasks-11.8.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/23b062dca74f2892ac524e2ec0f2171a/play-services-basement-11.8.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/23b062dca74f2892ac524e2ec0f2171a/play-services-basement-11.8.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/04dfc4c4586c8987d89778d025c299b5/support-v4-26.1.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/04dfc4c4586c8987d89778d025c299b5/support-v4-26.1.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/4969391013530459b8d5694d25c2914a/support-media-compat-26.1.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/4969391013530459b8d5694d25c2914a/support-media-compat-26.1.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/4e9a1213c0cdbf8ccf8b9a69b3cc28c7/support-fragment-26.1.0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/4e9a1213c0cdbf8ccf8b9a69b3cc28c7/support-fragment-26.1.0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/c53d86fa8e6705e40905d05fcb87b7a4/support-core-utils-26.1.0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/c53d86fa8e6705e40905d05fcb87b7a4/support-core-utils-26.1.0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/302181089bc332c5b96b205413380a6c/support-core-ui-26.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/302181089bc332c5b96b205413380a6c/support-core-ui-26.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/aef28e06034f17d0a1e19f4599c3cf7e/support-compat-26.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/aef28e06034f17d0a1e19f4599c3cf7e/support-compat-26.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/01d180647cc9210a06190de47a6aec66/play-services-maps-license-11.8.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/01d180647cc9210a06190de47a6aec66/play-services-maps-license-11.8.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/c787308641a40335721f8de3c47d5d7d/play-services-base-license-11.8.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/c787308641a40335721f8de3c47d5d7d/play-services-base-license-11.8.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/3c89b898be8c7791c446f6ccc26aea43/play-services-basement-license-11.8.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/3c89b898be8c7791c446f6ccc26aea43/play-services-basement-license-11.8.0/AndroidManifest.xml:4:5-43
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/654942dbea597829483fe5bc8dcaf1c5/runtime-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/654942dbea597829483fe5bc8dcaf1c5/runtime-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/b7651373a116154e9e2baa783b0abb0d/play-services-tasks-license-11.8.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/b7651373a116154e9e2baa783b0abb0d/play-services-tasks-license-11.8.0/AndroidManifest.xml:4:5-43
+INJECTED from /Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml
+INJECTED from /Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/4de86d69bf896f9b11352bd4216edca0/appcompat-v7-26.1.0/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml
+		ADDED from /Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml
+		ADDED from /Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/4de86d69bf896f9b11352bd4216edca0/appcompat-v7-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/43dc3e003e105e127a34c2c17032b779/animated-vector-drawable-26.1.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/43dc3e003e105e127a34c2c17032b779/animated-vector-drawable-26.1.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/c6edb1f8924d530483a3a5d691ff4a22/support-vector-drawable-26.1.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/c6edb1f8924d530483a3a5d691ff4a22/support-vector-drawable-26.1.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/04dfc4c4586c8987d89778d025c299b5/support-v4-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/04dfc4c4586c8987d89778d025c299b5/support-v4-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/4969391013530459b8d5694d25c2914a/support-media-compat-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/4969391013530459b8d5694d25c2914a/support-media-compat-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/4e9a1213c0cdbf8ccf8b9a69b3cc28c7/support-fragment-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/4e9a1213c0cdbf8ccf8b9a69b3cc28c7/support-fragment-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/c53d86fa8e6705e40905d05fcb87b7a4/support-core-utils-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/c53d86fa8e6705e40905d05fcb87b7a4/support-core-utils-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/302181089bc332c5b96b205413380a6c/support-core-ui-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/302181089bc332c5b96b205413380a6c/support-core-ui-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/aef28e06034f17d0a1e19f4599c3cf7e/support-compat-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/aef28e06034f17d0a1e19f4599c3cf7e/support-compat-26.1.0/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/4de86d69bf896f9b11352bd4216edca0/appcompat-v7-26.1.0/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/4de86d69bf896f9b11352bd4216edca0/appcompat-v7-26.1.0/AndroidManifest.xml:27:13-51
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/203a702c3c6ec4a5770e486a3ce79343/picasso-2.71828/AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/203a702c3c6ec4a5770e486a3ce79343/picasso-2.71828/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/203a702c3c6ec4a5770e486a3ce79343/picasso-2.71828/AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/203a702c3c6ec4a5770e486a3ce79343/picasso-2.71828/AndroidManifest.xml:9:13-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/e3ba44b2b8ebafdc3f0f3a4401d919cb/play-services-maps-11.8.0/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/e3ba44b2b8ebafdc3f0f3a4401d919cb/play-services-maps-11.8.0/AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/e3ba44b2b8ebafdc3f0f3a4401d919cb/play-services-maps-11.8.0/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/e3ba44b2b8ebafdc3f0f3a4401d919cb/play-services-maps-11.8.0/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/e3ba44b2b8ebafdc3f0f3a4401d919cb/play-services-maps-11.8.0/AndroidManifest.xml:28:9-32
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/1acf88e4def1bb35aafe3b77714a580d/play-services-base-11.8.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/1acf88e4def1bb35aafe3b77714a580d/play-services-base-11.8.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/1acf88e4def1bb35aafe3b77714a580d/play-services-base-11.8.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/1acf88e4def1bb35aafe3b77714a580d/play-services-base-11.8.0/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/23b062dca74f2892ac524e2ec0f2171a/play-services-basement-11.8.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/23b062dca74f2892ac524e2ec0f2171a/play-services-basement-11.8.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/23b062dca74f2892ac524e2ec0f2171a/play-services-basement-11.8.0/AndroidManifest.xml:24:13-58
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/654942dbea597829483fe5bc8dcaf1c5/runtime-1.0.0/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/654942dbea597829483fe5bc8dcaf1c5/runtime-1.0.0/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/654942dbea597829483fe5bc8dcaf1c5/runtime-1.0.0/AndroidManifest.xml:26:13-58

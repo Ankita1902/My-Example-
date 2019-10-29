@@ -1,0 +1,9 @@
+/Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/java/com/example/jiexunxu/tinderapp/WaitSearchActivity.kt
+/Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/java/com/example/jiexunxu/tinderapp/MainActivity.kt
+/Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/java/com/example/jiexunxu/tinderapp/GooglemapDirectionsActivity.kt
+/Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/java/com/example/jiexunxu/tinderapp/ErrorActivity.kt
+/Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/java/com/example/jiexunxu/tinderapp/SlideShowActivity.kt
+/Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/java/com/example/jiexunxu/tinderapp/YelpPlace.kt
+/Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/java/com/example/jiexunxu/tinderapp/AppOptions.kt
+/Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/java/com/example/jiexunxu/tinderapp/SettingsActivity.kt
+/Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/java/com/example/jiexunxu/tinderapp/NoPlacesFoundActivity.kt
