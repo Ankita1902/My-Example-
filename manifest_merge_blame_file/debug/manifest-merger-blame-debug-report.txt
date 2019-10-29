@@ -1,0 +1,142 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.jiexunxu.tinderapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->/Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="27" />
+9-->/Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+11-->/Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:6:5-79
+11-->/Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:6:22-76
+12    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+12-->/Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:7:5-80
+12-->/Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:7:22-78
+13    <uses-permission android:name="android.permission.INTERNET" />
+13-->/Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:8:5-67
+13-->/Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:8:22-64
+14    <uses-permission android:name="android.permission.CALL_PHONE" />
+14-->/Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:9:5-69
+14-->/Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:9:22-66
+15
+16    <!-- Include required permissions for Google Maps API to run. -->
+17    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+17-->[com.google.android.gms:play-services-maps:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/e3ba44b2b8ebafdc3f0f3a4401d919cb/play-services-maps-11.8.0/AndroidManifest.xml:23:5-79
+17-->[com.google.android.gms:play-services-maps:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/e3ba44b2b8ebafdc3f0f3a4401d919cb/play-services-maps-11.8.0/AndroidManifest.xml:23:22-76
+18
+19    <uses-feature
+19-->[com.google.android.gms:play-services-maps:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/e3ba44b2b8ebafdc3f0f3a4401d919cb/play-services-maps-11.8.0/AndroidManifest.xml:26:5-28:35
+20        android:glEsVersion="0x00020000"
+20-->[com.google.android.gms:play-services-maps:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/e3ba44b2b8ebafdc3f0f3a4401d919cb/play-services-maps-11.8.0/AndroidManifest.xml:27:9-41
+21        android:required="true" />
+21-->[com.google.android.gms:play-services-maps:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/e3ba44b2b8ebafdc3f0f3a4401d919cb/play-services-maps-11.8.0/AndroidManifest.xml:28:9-32
+22
+23    <application
+23-->/Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:11:5-42:19
+24        android:name="android.support.multidex.MultiDexApplication"
+25        android:allowBackup="true"
+25-->/Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:12:9-35
+26        android:debuggable="true"
+27        android:icon="@mipmap/ic_launcher"
+27-->/Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:13:9-43
+28        android:label="testApp"
+28-->/Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:14:9-32
+29        android:roundIcon="@mipmap/ic_launcher_round"
+29-->/Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:15:9-54
+30        android:supportsRtl="true"
+30-->/Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:16:9-35
+31        android:testOnly="true"
+32        android:theme="@style/AppTheme" >
+32-->/Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:17:9-40
+33        <activity
+33-->/Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:19:9-26:20
+34            android:name="com.example.jiexunxu.tinderapp.MainActivity"
+34-->/Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:20:13-41
+35            android:screenOrientation="portrait" >
+35-->/Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:21:13-49
+36            <intent-filter>
+36-->/Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:22:13-25:29
+37                <action android:name="android.intent.action.MAIN" />
+37-->/Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:23:17-69
+37-->/Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:23:25-66
+38
+39                <category android:name="android.intent.category.LAUNCHER" />
+39-->/Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:24:17-77
+39-->/Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:24:27-74
+40            </intent-filter>
+41        </activity>
+42        <activity
+42-->/Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:27:9-29:52
+43            android:name="com.example.jiexunxu.tinderapp.SlideShowActivity"
+43-->/Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:28:13-46
+44            android:screenOrientation="portrait" />
+44-->/Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:29:13-49
+45        <activity
+45-->/Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:30:9-32:52
+46            android:name="com.example.jiexunxu.tinderapp.WaitSearchActivity"
+46-->/Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:31:13-47
+47            android:screenOrientation="portrait" />
+47-->/Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:32:13-49
+48        <activity
+48-->/Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:33:9-35:52
+49            android:name="com.example.jiexunxu.tinderapp.NoPlacesFoundActivity"
+49-->/Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:34:13-50
+50            android:screenOrientation="portrait" />
+50-->/Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:35:13-49
+51        <activity
+51-->/Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:36:9-38:52
+52            android:name="com.example.jiexunxu.tinderapp.SettingsActivity"
+52-->/Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:37:13-45
+53            android:screenOrientation="portrait" />
+53-->/Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:38:13-49
+54        <activity
+54-->/Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:39:9-41:52
+55            android:name="com.example.jiexunxu.tinderapp.ErrorActivity"
+55-->/Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:40:13-42
+56            android:screenOrientation="portrait" />
+56-->/Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/src/main/AndroidManifest.xml:41:13-49
+57
+58        <meta-data
+58-->[com.android.support:appcompat-v7:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/4de86d69bf896f9b11352bd4216edca0/appcompat-v7-26.1.0/AndroidManifest.xml:26:9-28:38
+59            android:name="android.support.VERSION"
+59-->[com.android.support:appcompat-v7:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/4de86d69bf896f9b11352bd4216edca0/appcompat-v7-26.1.0/AndroidManifest.xml:27:13-51
+60            android:value="26.1.0" />
+60-->[com.android.support:appcompat-v7:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/4de86d69bf896f9b11352bd4216edca0/appcompat-v7-26.1.0/AndroidManifest.xml:28:13-35
+61
+62        <provider
+62-->[com.squareup.picasso:picasso:2.71828] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/203a702c3c6ec4a5770e486a3ce79343/picasso-2.71828/AndroidManifest.xml:8:9-11:40
+63            android:name="com.squareup.picasso.PicassoProvider"
+63-->[com.squareup.picasso:picasso:2.71828] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/203a702c3c6ec4a5770e486a3ce79343/picasso-2.71828/AndroidManifest.xml:9:13-64
+64            android:authorities="com.example.jiexunxu.tinderapp.com.squareup.picasso"
+64-->[com.squareup.picasso:picasso:2.71828] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/203a702c3c6ec4a5770e486a3ce79343/picasso-2.71828/AndroidManifest.xml:10:13-72
+65            android:exported="false" />
+65-->[com.squareup.picasso:picasso:2.71828] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/203a702c3c6ec4a5770e486a3ce79343/picasso-2.71828/AndroidManifest.xml:11:13-37
+66
+67        <activity
+67-->[com.google.android.gms:play-services-base:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/1acf88e4def1bb35aafe3b77714a580d/play-services-base-11.8.0/AndroidManifest.xml:23:9-26:75
+68            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+68-->[com.google.android.gms:play-services-base:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/1acf88e4def1bb35aafe3b77714a580d/play-services-base-11.8.0/AndroidManifest.xml:24:13-79
+69            android:exported="false"
+69-->[com.google.android.gms:play-services-base:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/1acf88e4def1bb35aafe3b77714a580d/play-services-base-11.8.0/AndroidManifest.xml:25:13-37
+70            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+70-->[com.google.android.gms:play-services-base:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/1acf88e4def1bb35aafe3b77714a580d/play-services-base-11.8.0/AndroidManifest.xml:26:13-72
+71
+72        <meta-data
+72-->[com.google.android.gms:play-services-basement:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/23b062dca74f2892ac524e2ec0f2171a/play-services-basement-11.8.0/AndroidManifest.xml:23:9-25:69
+73            android:name="com.google.android.gms.version"
+73-->[com.google.android.gms:play-services-basement:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/23b062dca74f2892ac524e2ec0f2171a/play-services-basement-11.8.0/AndroidManifest.xml:24:13-58
+74            android:value="@integer/google_play_services_version" />
+74-->[com.google.android.gms:play-services-basement:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/23b062dca74f2892ac524e2ec0f2171a/play-services-basement-11.8.0/AndroidManifest.xml:25:13-66
+75        <meta-data
+75-->[android.arch.lifecycle:runtime:1.0.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/654942dbea597829483fe5bc8dcaf1c5/runtime-1.0.0/AndroidManifest.xml:25:9-27:47
+76            android:name="android.arch.lifecycle.VERSION"
+76-->[android.arch.lifecycle:runtime:1.0.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/654942dbea597829483fe5bc8dcaf1c5/runtime-1.0.0/AndroidManifest.xml:26:13-58
+77            android:value="27.0.0-SNAPSHOT" />
+77-->[android.arch.lifecycle:runtime:1.0.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/654942dbea597829483fe5bc8dcaf1c5/runtime-1.0.0/AndroidManifest.xml:27:13-44
+78    </application>
+79
+80</manifest>
