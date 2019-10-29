@@ -1,2 +1,0 @@
-# Referenced at /Users/avinvaghasiya/AndroidStudioProjects/android-example/Place-recommender-with-Yelp-API/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml:23
--keep class android.support.multidex.MultiDexApplication { <init>(); }
